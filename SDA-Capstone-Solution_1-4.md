@@ -195,5 +195,3 @@ MYSQL/Aurora(3306)  ----> sda-capstone-ec2-sg
  `Type`         : String   (So AWS encrypts sensitive data using KMS)
  `Data type`    : text
  `Value`        : xxxxxxxxxxxxxxxxxxxx
-
-
